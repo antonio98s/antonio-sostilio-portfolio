@@ -1,1 +1,1 @@
-This is my portfolio website where I display my skills and abilities.
+A showcase of my projects and abilities.
